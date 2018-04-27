@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Kokeilupeli</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="reset">Reset</string>
+    <string name="save">Save</string>
+    <string name="saveas">Save as</string>
+    <string name="restore">Restore</string>
+    <string name="load">Load game</string>
+</resources>

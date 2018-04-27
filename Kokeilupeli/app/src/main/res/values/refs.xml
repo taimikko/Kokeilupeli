@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <drawable name="abctyhja">@drawable/abc_btn_colored_material</drawable>
+    <drawable name="abc2">@android:drawable/ic_delete</drawable>
+    <drawable name="abc1">@android:drawable/ic_input_add</drawable>
+</resources>
